@@ -5,7 +5,8 @@
 
 
 # Database Fundamentals 
-Before Database Systems there was File Based Systems, and there are many Limitations of this system such as:
+Before Database Systems there was File Based Systems, and there are many Limitations of this system.
+* File Based System Limitations:
   * Separation & isolation of data
   * Duplication of data 
   * Progoram data dependence
