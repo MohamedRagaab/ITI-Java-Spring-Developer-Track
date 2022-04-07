@@ -5,6 +5,7 @@
 * [Java Development SE](#Java-Development-SE)
 * [Javascript](#Javascript)
 * [HTML&CSS](#HTML-&-CSS)
+* [Freelancing Basics](#Freelancing-Basics)
 
 
 # Database Fundamentals 
@@ -24,3 +25,5 @@ Before Database Systems there was File Based Systems, and there are many Limitat
 # Javascript
 
 # HTML & CSS
+
+# Freelancing Basics
